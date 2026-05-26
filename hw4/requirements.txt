@@ -1,0 +1,9 @@
+torch
+torchvision
+facenet-pytorch
+kagglehub
+tqdm
+pandas
+matplotlib
+torchmetrics[image]
+Pillow
