@@ -1,0 +1,9 @@
+*.pt
+*.zip
+*.onnx
+runs/
+__pycache__/
+.venv/
+*.pyc
+.DS_Store
+checkpoints/
